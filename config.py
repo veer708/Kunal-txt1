@@ -1,5 +1,5 @@
 BOT_NAME = "Moni Uploader 2"
-API_ID    = 24495656
-API_HASH  = "61afcf68c6429714dd18acd07f246571"
-BOT_TOKEN = "8040014845:AAHAo3zgpikp-4j2PLQofMxSwtoOdQKTQLg"
-MONGO_URI = "mongodb+srv://mrnobody:modernhackers@mrnobody.q8e87ij.mongodb.net/?retryWrites=true&w=majority&appName=MrNobody"
+API_ID    = 29232353
+API_HASH  = "6868788228291767c90e4346eea03f36"
+BOT_TOKEN = ""
+MONGO_URI = "mongodb+srv://veer12730:11rtHhyY2ISxrqzy@cluster0.huleszn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
